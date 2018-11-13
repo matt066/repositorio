@@ -1,0 +1,10 @@
+D:\Users\314412\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+D:\Users\314412\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+D:\Users\314412\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+D:\Users\314412\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+D:\Users\314412\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+D:\Users\314412\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+D:\Users\314412\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.GenerateResource.cache
+D:\Users\314412\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+D:\Users\314412\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+D:\Users\314412\Documents\Visual Studio 2013\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
