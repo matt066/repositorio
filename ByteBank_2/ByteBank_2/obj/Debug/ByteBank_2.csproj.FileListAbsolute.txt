@@ -1,0 +1,7 @@
+C:\Users\mathe\source\repos\ByteBank_2\ByteBank_2\bin\Debug\ByteBank_2.exe.config
+C:\Users\mathe\source\repos\ByteBank_2\ByteBank_2\bin\Debug\ByteBank_2.exe
+C:\Users\mathe\source\repos\ByteBank_2\ByteBank_2\bin\Debug\ByteBank_2.pdb
+C:\Users\mathe\source\repos\ByteBank_2\ByteBank_2\obj\Debug\ByteBank_2.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\ByteBank_2\ByteBank_2\obj\Debug\ByteBank_2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\ByteBank_2\ByteBank_2\obj\Debug\ByteBank_2.exe
+C:\Users\mathe\source\repos\ByteBank_2\ByteBank_2\obj\Debug\ByteBank_2.pdb

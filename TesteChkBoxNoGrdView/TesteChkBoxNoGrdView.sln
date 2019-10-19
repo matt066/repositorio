@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteChkBoxNoGrdView", "TesteChkBoxNoGrdView\TesteChkBoxNoGrdView.csproj", "{4DEDB941-1025-44FC-B386-D5A4631F0F20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DEDB941-1025-44FC-B386-D5A4631F0F20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DEDB941-1025-44FC-B386-D5A4631F0F20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DEDB941-1025-44FC-B386-D5A4631F0F20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DEDB941-1025-44FC-B386-D5A4631F0F20}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4A33730-9DF3-48F0-ADA8-D873C5DBBD0A}
+	EndGlobalSection
+EndGlobal

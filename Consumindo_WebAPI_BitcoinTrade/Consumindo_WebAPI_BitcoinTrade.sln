@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumindo_WebAPI_BitcoinTrade", "Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade.csproj", "{3882C390-72D7-4E09-974F-59D83CB9D9F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3882C390-72D7-4E09-974F-59D83CB9D9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3882C390-72D7-4E09-974F-59D83CB9D9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3882C390-72D7-4E09-974F-59D83CB9D9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3882C390-72D7-4E09-974F-59D83CB9D9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C77033-A839-47B8-B6E7-185DE5742B59}
+	EndGlobalSection
+EndGlobal

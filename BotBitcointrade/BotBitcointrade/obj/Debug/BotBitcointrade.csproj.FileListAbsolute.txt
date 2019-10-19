@@ -1,0 +1,17 @@
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\bin\Debug\BotBitcointrade.exe.config
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\bin\Debug\BotBitcointrade.exe
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\bin\Debug\BotBitcointrade.pdb
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\obj\Debug\BotBitcointrade.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\obj\Debug\BotBitcointrade.Form1.resources
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\obj\Debug\BotBitcointrade.Properties.Resources.resources
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\obj\Debug\BotBitcointrade.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\obj\Debug\BotBitcointrade.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\obj\Debug\BotBitcointrade.csproj.CopyComplete
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\obj\Debug\BotBitcointrade.exe
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\obj\Debug\BotBitcointrade.pdb
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\bin\Debug\Vse.Web.Serialization.dll
+C:\Users\mathe\source\repos\BotBitcointrade\BotBitcointrade\bin\Debug\Vse.Web.Serialization.pdb

@@ -1,0 +1,15 @@
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\obj\Debug\Consumindo_WebAPI_BitcoinTrade.csprojAssemblyReference.cache
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\obj\Debug\Consumindo_WebAPI_BitcoinTrade.gdvDados.resources
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\obj\Debug\Consumindo_WebAPI_BitcoinTrade.Properties.Resources.resources
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\obj\Debug\Consumindo_WebAPI_BitcoinTrade.csproj.GenerateResource.cache
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\obj\Debug\Consumindo_WebAPI_BitcoinTrade.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\bin\Debug\Consumindo_WebAPI_BitcoinTrade.exe.config
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\bin\Debug\Consumindo_WebAPI_BitcoinTrade.exe
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\bin\Debug\Consumindo_WebAPI_BitcoinTrade.pdb
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\obj\Debug\Consumindo_WebAPI_BitcoinTrade.csproj.CopyComplete
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\obj\Debug\Consumindo_WebAPI_BitcoinTrade.exe
+C:\Users\mathe\source\repos\Consumindo_WebAPI_BitcoinTrade\Consumindo_WebAPI_BitcoinTrade\obj\Debug\Consumindo_WebAPI_BitcoinTrade.pdb
